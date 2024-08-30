@@ -16,7 +16,7 @@ To set up the calculator app locally:
    cd simple-calculator-app
    ```
 
-3. **Open `(https://prabhteshmishra4567.github.io/Calculator/)`** in your browser to start using the calculator.
+3. **Open `https://prabhteshmishra4567.github.io/Calculator/`** in your browser to start using the calculator.
 
 ## 🖥️ Usage
 
@@ -50,7 +50,7 @@ Contributions are welcome! To contribute:
 
 ## 📬 Screen-shots
 
-![Calculator Screenshot](https://via.placeholder.com/500x300.png?text=Calculator+Screenshot)
+![Screenshot-Calc](https://github.com/user-attachments/assets/d6731180-1405-4c67-bbcc-6eea5d5fb946)
 
 ## 📬 Contact
 
