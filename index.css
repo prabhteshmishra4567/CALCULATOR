@@ -20,7 +20,7 @@ body {
 
 .calculator {
     border: 1px solid silver;
-    padding: 20px;
+    padding: 30px;
     border-radius: 16px;
     box-shadow:10px 10px 15px rgba(0, 0, 0, 0.3), /* bottom-right */
     -10px 10px 15px rgba(0, 0, 0, 0.3), /* bottom-left */
